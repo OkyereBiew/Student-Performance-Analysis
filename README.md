@@ -59,4 +59,4 @@ To explore how student performance varies based on demographic and educational s
 ## 📌 Conclusion
 This beginner-friendly data analysis project demonstrates how demographic and support variables affect student performance. It offers hands-on experience with real-world data and fundamental analysis techniques in Python.
 
-## 📁 File Structure
+
